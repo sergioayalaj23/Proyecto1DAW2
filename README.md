@@ -2,5 +2,4 @@
 Repositorio del proyecto 1
 
 ##Integrantes del proyecto
-Sergio Ayala
-Victor Cruz
+Sergio Ayala y Victor Cruz
